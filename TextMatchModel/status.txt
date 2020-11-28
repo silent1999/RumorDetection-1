@@ -1,0 +1,3 @@
+use command `python work.py` to run
+rumor sets located at ./data/rumors.txt
+rumors to be updated 
